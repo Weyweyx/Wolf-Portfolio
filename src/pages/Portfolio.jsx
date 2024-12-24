@@ -13,16 +13,16 @@ function AboutMe() {
         <PortfolioItem title = {'Social Network'} github = {'https://github.com/Weyweyx/Social-NetworkAPI'} app = {''} src = {'public/images/diesel.jpeg'}>
 
         </PortfolioItem>
-        <PortfolioItem title = {'LovelyLoots'} github = {'https://github.com/Weyweyx/MovieTracker'} app = {''} src = {'public/images/diesel.jpeg'}>
+        <PortfolioItem title = {'Movie Tracker'} github = {'https://github.com/Weyweyx/MovieTracker'} app = {''} src = {'public/images/diesel.jpeg'}>
 
         </PortfolioItem>
-        <PortfolioItem title = {'LovelyLoots'} github = {'https://github.com/Weyweyx/WeatherBuddy'} app = {'https://weyweyx.github.io/WeatherBuddy/'} src = {'public/images/diesel.jpeg'}>
+        <PortfolioItem title = {'WeatherBuddy'} github = {'https://github.com/Weyweyx/WeatherBuddy'} app = {'https://weyweyx.github.io/WeatherBuddy/'} src = {'public/images/diesel.jpeg'}>
 
         </PortfolioItem>
-        <PortfolioItem title = {'LovelyLoots'} github = {'https://github.com/Weyweyx/Employee-Tracker'} app = {''} src = {'public/images/diesel.jpeg'}>
+        <PortfolioItem title = {'Employee Tracker'} github = {'https://github.com/Weyweyx/Employee-Tracker'} app = {''} src = {'public/images/diesel.jpeg'}>
 
         </PortfolioItem>
-        <PortfolioItem title = {'LovelyLoots'} github = {''} app = {''} src = {'public/images/diesel.jpeg'}>
+        <PortfolioItem title = {'Logo Maker'} github = {'https://github.com/Weyweyx/SVG-Logo-Maker'} app = {''} src = {'public/images/diesel.jpeg'}>
 
         </PortfolioItem>
       </div>
