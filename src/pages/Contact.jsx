@@ -1,5 +1,6 @@
 import React from 'react';
 import { Formik,Field } from 'formik';
+import '/src/Contact.css';
 
 function AboutMe() {
   return (
@@ -40,7 +41,7 @@ function AboutMe() {
        }) => (
          <form onSubmit={handleSubmit}>
             <div>
-            <label>email:</label>
+            <label>Email:</label>
            <input
              type="email"
              name="email"
@@ -52,7 +53,7 @@ function AboutMe() {
             </div>
            
             <div>
-            <label>name:</label>
+            <label>Name:</label>
            <input
              type="text"
              name="name"
@@ -63,7 +64,7 @@ function AboutMe() {
            {errors.name && touched.name && errors.name}
             </div>
             <div>
-            <label>message:</label>
+            <label>Message:</label>
            <Field name='message' component='textarea'></Field>
            {errors.message && touched.message && errors.message}
             </div>
